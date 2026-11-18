@@ -1,0 +1,8 @@
+# Original package versions were not recorded; dependencies are intentionally unpinned.
+numpy
+pandas
+yfinance
+scikit-learn
+xgboost
+jupyterlab
+ipykernel
