@@ -1,0 +1,29 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Local data and trained models
+data/
+*.parquet
+*.pkl
+*.joblib
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
